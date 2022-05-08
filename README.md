@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ My Self:
 
-- 🔭 I’m currently working on **[Wallet App](link)**
+- 🔭 I’m currently working as freelancer **[https://www.fiverr.com/share/KxvwA2](link)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -61,7 +61,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/talha-riaz-388691213"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://www.fiverr.com/share/KxvwA2"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/fiverr-512.png"/></a>
 <a href = "https://twitter.com/TalhaRi84949543"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "link"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
