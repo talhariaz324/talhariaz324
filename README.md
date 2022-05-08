@@ -6,7 +6,8 @@
 
 ## 🙋‍♂️ My Self:
 
-- 🔭 I’m currently working as freelancer **[https://www.fiverr.com/share/KxvwA2](link)**
+- 🔭 I’m currently working as a freelancer **[https://www.fiverr.com/share/KxvwA2](link)**
+                                               NOTE: Link will work online in address bar
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
