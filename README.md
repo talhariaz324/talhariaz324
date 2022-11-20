@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Talha</h1>
-<h3 align="center">I'm a passionate Flutter & Web Front-End Developer and from Pakistan.</h3>
+<h3 align="center">Full Stack Web Developer is Here.</h3>
 
 
 ## 🙋‍♂️ My Self:
 
-- 🔭 I’m currently working as a freelancer **[https://www.fiverr.com/share/KxvwA2](link)**
+- 🔭 I’m currently working as a freelancer **[https://www.upwork.com/freelancers/~01ccf49fb8ce93b24a](link)**
                                                NOTE: Link will work online in address bar
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
