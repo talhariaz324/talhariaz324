@@ -9,7 +9,7 @@
   
 - 🌱 Currently exploring microservices architecture and integrations to tackle complex business problems.
 
-- 👨‍💻 Continuously learning new languages and tools; proficient in Java, C++, and React Native.
+- 👨‍💻 My dedication to mastering new languages and tools is evident in my proactive acceptance of challenges in previous roles, leading to proficiency in Java, C++, and React Native.
 
 ## 🚀 Technologies & Tools:
 
