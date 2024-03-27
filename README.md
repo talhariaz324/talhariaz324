@@ -13,21 +13,21 @@
 
 ## 🚀 Technologies & Tools:
 
-- ✔ Web Development: JavaScript, TypeScript, HTML5, CSS3.
+-  Web Development: JavaScript, TypeScript, HTML5, CSS3.
   
-- ✔ Backend Essentials: Node.js, REST APIs, GraphQL.
+-  Backend Essentials: Node.js, REST APIs, GraphQL.
   
-- ✔ Version Control: Git and GitHub.
+-  Version Control: Git and GitHub.
   
-- ✔ Database Management: MongoDB, PostgreSQL, Firebase.
+-  Database Management: MongoDB, PostgreSQL, Firebase.
   
-- ✔ Cloud Computing: AWS.
+-  Cloud Computing: AWS.
   
-- ✔ Automation & CI/CD: GitHub Actions, AWS services.
+-  Automation & CI/CD: GitHub Actions, AWS services.
   
-- ✔ Real-time Communication: WebRTC, Websockets.
+-  Real-time Communication: WebRTC, Websockets.
   
-- ✔ Testing Expertise: Jest, Selenium.
+-  Testing Expertise: Jest, Selenium.
 
 ## 💼 Experience:
 
