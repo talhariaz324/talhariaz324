@@ -13,7 +13,7 @@
 
 ## 🚀 Technologies & Tools:
 
-- 💻 Web Development: JavaScript, TypeScript, HTML5, CSS3.
+- ✔️ Web Development: JavaScript, TypeScript, HTML5, CSS3.
   
 - ⚙️ Backend Essentials: Node.js, REST APIs, GraphQL.
   
