@@ -1,41 +1,41 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Talha</h1>
-<h3 align="center">Software Engineer | Backend and Infrastructure Enthusiast | DevOps Practitioner</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Talha</h1>
+<h3 align="center">Software Engineer | Backend Specialist | DevOps Practitioner</h3>
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I've been immersed in the tech industry for over 2 years, with a keen interest in Backend and Infrastructure, DevOps, Platform Engineering, and Large-Scale Distributed Systems.
+- 🔭 With over 2 years in the tech industry, I specialize in Backend Development, DevOps, and Platform Engineering.
   
-- 🌱 Currently, I'm delving into microservices architecture and integrations to tackle intricate business challenges.
+- 🌱 Currently exploring microservices architecture and integrations to tackle complex business problems.
 
-- 👨‍💻 My passion for mastering new languages and tools drives me forward. I've honed my skills in Java, C++, and React Native, amplifying my adaptability and versatility.
+- 👨‍💻 Continuously learning new languages and tools; proficient in Java, C++, and React Native.
 
 ## 🚀 Technologies & Tools:
 
-- ✔ Web Development: JS ES6+, TypeScript, HTML5, CSS3, and more.
+- ✔ Web Development: JavaScript, TypeScript, HTML5, CSS3.
   
-- ✔ Backend Essentials: Node.js with JavaScript & TypeScript, REST APIs, Webhooks, and GraphQL.
+- ✔ Backend Essentials: Node.js, REST APIs, GraphQL.
   
-- ✔ Version Control: Proficient in Git and GitHub.
+- ✔ Version Control: Git and GitHub.
   
-- ✔ Database Management: MongoDB, PostgreSQL, Firebase, and others.
+- ✔ Database Management: MongoDB, PostgreSQL, Firebase.
   
-- ✔ Cloud Computing: Familiar with AWS.
+- ✔ Cloud Computing: AWS.
   
-- ✔ Automation & CI/CD: Utilize GitHub Actions and AWS services.
+- ✔ Automation & CI/CD: GitHub Actions, AWS services.
   
-- ✔ Real-time Communication: Experienced with WebRTC and Websockets.
+- ✔ Real-time Communication: WebRTC, Websockets.
   
-- ✔ Testing Expertise: Proficient in Jest and Selenium.
+- ✔ Testing Expertise: Jest, Selenium.
 
 ## 💼 Experience:
 
-- 🤝 Collaborated effectively in team settings and handled individual projects with finesse.
+- 🤝 Effective collaboration in team settings and individual project management.
   
-- 🎓 Passionate about mentoring and guiding students in technology; involved in various student groups, including one sponsored by Microsoft.
+- 🎓 Passionate about mentoring students in technology; active in student groups, including one sponsored by Microsoft.
   
-- 💻 Actively contribute to LeetCode during my leisure time. You can explore my contributions [here](https://leetcode.com/Talha_Riaz/).
+- 💻 Regular contributions to LeetCode in my leisure time. Explore my contributions [here](https://leetcode.com/Talha_Riaz/).
 
 ## 📫 Connect with Me:
 
