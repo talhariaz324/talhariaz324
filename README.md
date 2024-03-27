@@ -25,9 +25,9 @@
   
 - Automation & CI/CD: GitHub Actions, AWS services.
   
- ✔️ Real-time Communication: WebRTC, Websockets.
+- Real-time Communication: WebRTC, Websockets.
   
- ✔️ Testing Expertise: Jest, Selenium.
+- Testing Expertise: Jest, Selenium.
 
 ## 💼 Experience:
 
