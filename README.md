@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 With over 2 years in the tech industry, I specialize in Backend Development, DevOps, and Platform Engineering.
+- 🔭 With over 1 year in the tech industry, I specialize in Backend Development, DevOps, and Platform Engineering.
   
 - 🌱 Currently exploring microservices architecture and integrations to tackle complex business problems.
 
