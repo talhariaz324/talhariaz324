@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Talha</h1>
 <h3 align="center">Software Engineer @ <a href="https://weiblocks.io/" target="_blank" rel="noopener noreferrer">Weiblocks</a> | JavaScript | Web & Mobile Development | Web3</h3>
+<h3 align="center"><a href="https://talha-riaz.netlify.app/" target="_blank">Visit My Website</a></h3>
 
 
 ## 🙋‍♂️ About Me:
