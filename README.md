@@ -1,54 +1,54 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Talha</h1>
-<h3 align="center"> Software Engineer | Backend Specialist | DevOps Practitioner</h3>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Talha</h1>
+<h3 align="center">Software Engineer @ <a href="https://weiblocks.io/" target="_blank" rel="noopener noreferrer">Weiblocks</a> | JavaScript | Web & Mobile Development | Web3</h3>
+
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 With over 2 years in the tech industry, I specialize in Backend Development, DevOps, and Platform Engineering.
+- 🔭 With over 2 years of experience in building scalable applications. I specialize in JavaScript, React, Node.js, and React Native, focusing on creating dynamic, user-friendly experiences.
   
-- 🌱 Currently exploring microservices architecture and integrations to tackle complex business problems.
+- 🌱 Currently, I work at Weiblocks, thriving in fast-paced environments where I leverage my skills in databases, cloud services, and CI/CD pipelines to make a meaningful impact.
 
-- 👨‍💻 My dedication to mastering new languages and tools is evident in my proactive acceptance of challenges in previous roles, leading to proficiency in Java, C++, and React Native.
+- 👨‍💻 My commitment to clean code and problem-solving drives impactful results, whether optimizing performance or leading teams.
 
 ## 🚀 Technologies & Tools:
 
-- Web Development: JavaScript, TypeScript, HTML5, CSS3.
-  
-- Backend Essentials: Node.js, REST APIs, GraphQL.
-  
-- Version Control: Git and GitHub.
-  
-- Database Management: MongoDB, PostgreSQL, Firebase.
-  
-- Cloud Computing: AWS.
-  
-- Automation & CI/CD: GitHub Actions, AWS services.
-  
-- Real-time Communication: WebRTC, Websockets.
-  
-- Testing Expertise: Jest, Selenium.
+- JavaScript (ES6+), TypeScript
+
+- Node.js, Express, REST APIs, Webhooks, and GraphQL
+
+- React, Next, React Native
+
+- Git and GitHub
+
+- MongoDB, PostgreSQL, MySQL, DynamoDB
+
+- AWS (S3, RDS, Lambda), CI/CD pipelines, GitHub Actions
+
+- Microservices Architecture, Event-Driven Architecture, Containerization (Docker, Kubernetes)
+
+- WebRTC, Websockets
+
+- Jest and Selenium
 
 ## 💼 Experience:
 
 - 🤝 Effective collaboration in team settings and individual project management.
   
-- 🎓 Passionate about mentoring students in technology; active in student groups, including one sponsored by Microsoft.
+- 🎓 I enjoy learning and sharing knowledge through initiatives like [DevWeekends](https://www.linkedin.com/company/dev-weekends/), where I’ve hosted sessions on topics [Database Systems for Software Engineers ](https://youtu.be/ra0WgheIfPg?si=A1gktDKMu8PoAXMo) & [Data Structures and Algorithms](https://youtu.be/ZAPKS2kOj3A?si=bF0Teb8S3igZxcYl).
   
-- 💻 Regular contributions to LeetCode in my leisure time. Explore my contributions [here](https://leetcode.com/Talha_Riaz/).
+- 💻 Regular contributions to LeetCode in my spare time. Explore my contributions at [Leetcode](https://leetcode.com/Talha_Riaz/).
 
 ## 📫 Connect with Me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/talha-riaz-388691213"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://twitter.com/TalhaRi84949543"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href="link"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="link"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="https://www.linkedin.com/in/talha-riaz-388691213">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+  </a>
+  <a href="https://talha-riaz.netlify.app/">
+    <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" alt="Custom Icon" width="50" height="50"/>
+  </a>
 </p>
 
-## ❤ Views and Followers:
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=talhariaz324">
-</a>
-<a href="https://github.com/talhariaz324?tab=followers"><img src="https://img.shields.io/github/followers/talhariaz324?label=Followers&style=social" alt="GitHub Badge"></a>
