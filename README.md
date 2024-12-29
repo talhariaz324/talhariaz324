@@ -47,7 +47,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
   </a>
   <a href="https://talha-riaz.netlify.app/">
-    <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" alt="Custom Icon" width="50" height="50"/>
+    <img src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" alt="Custom Icon" width="48" height="48"/>
   </a>
 </p>
 
