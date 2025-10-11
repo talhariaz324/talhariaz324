@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 With over 2 years of experience in building scalable applications. I specialize in JavaScript, React, Node.js, and React Native, focusing on creating dynamic, user-friendly experiences.
+- 🔭 With 3 years of experience in building scalable applications. I specialize in JavaScript, React, Node.js, and React Native, focusing on creating dynamic, user-friendly experiences.
   
 - 🌱 Currently, I work at Weiblocks, thriving in fast-paced environments where I leverage my skills in databases, cloud services, and CI/CD pipelines to make a meaningful impact.
 
