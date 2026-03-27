@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Talha Riaz
 
-I design, develop, and simplify to deliver **scalable platforms built for growth**, from high-traffic web apps that stay resilient under peak demand to **multi-market payment and revenue systems** powering fintech and consumer platforms.
+I design, develop, and simplify to deliver **scalable platforms built for growth**, from high-traffic web apps that stay resilient under peak demand to **multi-market payment and revenue systems** powering fintech and consumer platforms. Also Expanding into AI-integrated applications with LangChain and RAG pipelines.
 
 With a **product-first mindset**, I focus on solutions that not only perform technically but also **unlock measurable business impact**, enabling faster growth and smarter customer experiences.
 
