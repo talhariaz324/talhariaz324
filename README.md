@@ -8,7 +8,7 @@ With a **product-first mindset**, I focus on solutions that not only perform tec
 
 ### 🧠 What I Work With
 
-**Languages:** JavaScript (ES6+), TypeScript, Python
+**Languages:** JavaScript (ES6+), TypeScript, Python  
 **Backend:** Node.js, Express.js, NestJS, FastAPI, REST, GraphQL, RabbitMQ, Kafka  
 **Frontend:** React, Next.js, React Native, Zustand, Redux Toolkit, Tanstack Query  
 **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB, Redis, Supabase, Firebase  
